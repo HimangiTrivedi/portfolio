@@ -49,3 +49,21 @@ button:hover {
 #work-list {
   margin-top: 20px;
 }
+
+.work-item {
+  margin-bottom: 10px;
+}
+
+.work-item h3 {
+  margin: 0;
+}
+
+.work-item p {
+  margin-top: 5px;
+}
+
+.delete-btn {
+  color: red;
+  cursor: pointer;
+  margin-left: 10px;
+}
